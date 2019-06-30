@@ -1,0 +1,12 @@
+C:\Users\miles\OneDrive\Desktop\IP Lookup\bin\Debug\IP Lookup.exe.config
+C:\Users\miles\OneDrive\Desktop\IP Lookup\bin\Debug\IP Lookup.exe
+C:\Users\miles\OneDrive\Desktop\IP Lookup\bin\Debug\IP Lookup.pdb
+C:\Users\miles\OneDrive\Desktop\IP Lookup\obj\Debug\IP Lookup.csprojAssemblyReference.cache
+C:\Users\miles\OneDrive\Desktop\IP Lookup\obj\Debug\IP_Lookup.Form1.resources
+C:\Users\miles\OneDrive\Desktop\IP Lookup\obj\Debug\IP_Lookup.Properties.Resources.resources
+C:\Users\miles\OneDrive\Desktop\IP Lookup\obj\Debug\IP Lookup.csproj.GenerateResource.cache
+C:\Users\miles\OneDrive\Desktop\IP Lookup\obj\Debug\IP Lookup.csproj.CoreCompileInputs.cache
+C:\Users\miles\OneDrive\Desktop\IP Lookup\obj\Debug\IP Lookup.exe
+C:\Users\miles\OneDrive\Desktop\IP Lookup\obj\Debug\IP Lookup.pdb
+C:\Users\miles\OneDrive\Desktop\IP Lookup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\miles\OneDrive\Desktop\IP Lookup\obj\Debug\IP Lookup.csproj.CopyComplete
